@@ -25,7 +25,7 @@ usethis::create_github_token()
 ## in case usethis version < 2.0.0: usethis::browse_github_token() (or even better: update usethis!)
 
 ## set personal access token:
-credentials::set_github_pat("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")
+credentials::set_github_pat("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")
 
 ## or store it manually in '.Renviron':
 usethis::edit_r_environ()
