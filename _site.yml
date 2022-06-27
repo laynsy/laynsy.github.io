@@ -4,11 +4,12 @@
     title: "Cars"
     left:
     - text: "Home"
-      href: /
-    - text: "Home Test"
       href: index.html
     - text: "Speed and Distance"
       href: speed-and-distance.html
+    right:
+    - text: "Home Test"
+      href: /
   output:
     html_document:
       theme: cosmo
